@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "22HqshRo0oIlckIrHyoFyZ",
+    "name" : "sribatsa",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Sribatsa's personal project directory",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
