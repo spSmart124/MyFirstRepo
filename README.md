@@ -25,3 +25,21 @@ ___
 4. 1 file
 5. 1 carry bag
 6. 1 backpack
+
+
+## Link
+Syntax
+* [Link text](link url)
+* [Link text]
+  * [Link text]: link url
+* [Link text][index]
+  * [index]: link url
+ 
+[LinkedIn](https://linkedin.com)
+[Learning]
+
+[Learning]: https://www.linkedin.com/learning
+
+[Infa SSO][1]
+
+[1]: https://sso.informatica.com/app/UserHome
