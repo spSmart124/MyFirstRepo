@@ -34,7 +34,8 @@ Syntax
   * [Link text]: link url
 * [Link text][index]
   * [index]: link url
- 
+
+ ### Example
 [LinkedIn](https://linkedin.com)
 [Learning]
 
@@ -43,3 +44,18 @@ Syntax
 [Infa SSO][1]
 
 [1]: https://sso.informatica.com/app/UserHome
+
+## Image
+Syntax
+* ![Image text](image url)
+* ![Image text]
+  * ![Image text]: image url
+* [![Image text](image url)](link url)
+
+### Example
+
+![Apple](https://5.imimg.com/data5/SELLER/Default/2023/11/364280464/EA/QH/FJ/151743884/red-water-apple-fruits-1000x1000.jpg)
+
+![Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOrOwY43A2IXz1v0yLjmHVWj0d2_YMm_6eA&s)
+
+[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0t_62T-zlPjG-DsUbtI0mO_39kXKSOD4Qg&s)](https://linkedin.com)
