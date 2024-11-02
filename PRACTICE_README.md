@@ -17,3 +17,30 @@ My Header
 
 My Header 1
 ---
+
+## List
+### Unordered list
+* Apple
+* Orange
+* Guava
+* Pine Apple
+* Cherry
+
+### Ordered List
+1. Switch on your bike
+2. Keep the clutch lever pressed
+3. Put on first gear
+4. Slowly release the clutch lever
+5. Slowly rotate accelator handle
+
+### Indented Unordered List
++ Books
+  + Ram charita manas
+  + Gita
+  + Shiva panchakshari
+  + Mahalakshmi purana
++ Food
+  + Potato chips
+  + Kurkure
+  + Twenty twenty biscuit
+  + Mixture
