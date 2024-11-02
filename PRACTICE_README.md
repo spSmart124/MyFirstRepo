@@ -44,3 +44,20 @@ My Header 1
   + Kurkure
   + Twenty twenty biscuit
   + Mixture
+ 
+### Tasklist
+Selection list
+- [ ] Sribatsa
+- [ ] Ramesh
+- [x] Rajesh
+- [ ] David
+- [x] Kunal
+- [ ] Krishna
+
+### Style
+**Markdown** helps to *properly* format the comment for better _comprehension_. It makes the comment better __represented__ and understood. It is pretty useful in content creation. The version ~~4.5.6~~ is no longer available.
+
+### Quote
+> Quality is a product of a conflict between programmers and testers.
+> Software is like sex: it's better when it's free.
+> If we want users to like our software, we should design it to behave like a likable person.
